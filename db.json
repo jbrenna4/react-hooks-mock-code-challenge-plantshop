@@ -44,9 +44,15 @@
     },
     {
       "name": "toy",
-      "url": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "price": "5.29",
+      "image": "toy",
+      "price": 5.29,
       "id": 8
+    },
+    {
+      "name": "toy",
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
+      "price": 5.29,
+      "id": 9
     }
   ]
 }
