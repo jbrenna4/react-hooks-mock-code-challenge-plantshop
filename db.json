@@ -41,18 +41,6 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
-    },
-    {
-      "name": "toy",
-      "image": "toy",
-      "price": 5.29,
-      "id": 8
-    },
-    {
-      "name": "toy",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "price": 5.29,
-      "id": 9
     }
   ]
 }
